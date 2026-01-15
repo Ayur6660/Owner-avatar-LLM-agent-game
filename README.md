@@ -7,8 +7,6 @@
 
 
 
-
-
 # Thesis
 
 We are building what we call an “automatic world” with AI-based agents in a fully open, composable on-chain world.
@@ -21,7 +19,7 @@ User can participate in the game in 2 ways:
 Why we need this?
 
 1. reduce the barrier of fully on-chain game. Composability is good, but we cannot expect all players to write codes. Using natural language as the main interface allows literally everyone to participate in the game.
-2. new game mechanism and emergent experience. As the Generative Agents paper ([https://arxiv.org/abs/2304.03442](https://arxiv.org/abs/2304.03442)) has shown, LLM-based generative agents are able to collectively generate very interesting behavior, and the competition & collaboration in a multi-human, multi-agent world can be fascinating.
+2. new game mechanism and emergent experience. As the Generative Agents paper  has shown, LLM-based generative agents are able to collectively generate very interesting behavior, and the competition & collaboration in a multi-human, multi-agent world can be fascinating.
 3. More autonomous and normal autonomous world. A successful autonomous world depends on the constant input of all human participants and is hard to bootstrap. But you can let your LLM agents do your work and constantly contributing to the game, thus the quantity of content can be easily bootstrapped.
 4. Cultural layer on top of the mathematic logic. For the first time in human history, we can perform subtle, natural language-based thinking with machines. All previous games are based on some formal logic (I attack you, you reduce 1 health), and LLM allows us to simulate more subtle game logic (what will be the conversation between a Buddhist dad and a Christian son). This unlocks the potential of a cultural layer on top of the physical logic.
 
